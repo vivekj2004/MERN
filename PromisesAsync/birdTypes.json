@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "type": "Accipitriformes",
+        "details": {
+            "flying": "These birds are able to fly very well",
+            "features": "They have a sharp, hooked beak with visible nostrils",
+            "feeding": "they eat the meat of other animals."
+        }
+    },
+    {
+        "id": 2,
+        "type": "Anseriformes",
+        "details": {
+            "flying": "have mighty wings that are adapted for the long – distance flights",
+            "features": "All of these birds have a prominent neck, from medium to long.The birds have varied coloring, from black, grey and brown to brighter coloring in some species, like mandarin ducks.",
+            "feeding": "Most anseriformes feed on plants or their parts, such as leaves or seeds. Some of them can hunt for insects, plankton, or mollusks"
+        }
+    },
+    {
+        "id": 3,
+        "type": "Apodiformes",
+        "details": {
+            "flying": "Hummingbirds rely on hovering flight and have powerful muscles",
+            "features": "Most of the birds in this order are either small or very small",
+            "feeding": "Hummingbirds depend on nectar as a food source. Their beaks are highly specialized for that purpose"
+        }
+    },
+    {
+        "id": 4,
+        "type": "Apterygiformes",
+        "details": {
+            "flying": "flightless birds",
+            "features": "Kiwis have a small, pear-shaped body. One of their prominent features is the presence of robust legs and feet.",
+            "feeding": "they mainly feed on earthworms, beetles, and larvae, but sometimes can eat fruit and leaves."
+        }
+    },
+    {
+        "id": 5,
+        "type": "Bucerotiformes",
+        "details": {
+            "flying": "These birds are able to fly very well",
+            "features": "The most prominent feature of the birds in this order is the presence of large, hard bills.",
+            "feeding": "These birds feed predominantly on insects"
+        }
+    },
+    {
+        "id": 6,
+        "type": "Caprimulgiformes",
+        "details": {
+            "flying": "These birds are terrestrial birds that live on the ground, and seldom fly.",
+            "features": "Caprimugiformes have large heads with large eyes and most of the birds in the order are relatively small",
+            "feeding": "These birds mainly feed on insects"
+        }
+    },
+    {
+        "id": 7,
+        "type": "Cariamiformes",
+        "details": {
+            "flying": "These birds can fly in the dark",
+            "features": "These birds are large with long legs adapted for running. They can grow as high as one meter and weigh about 1.5 kg.",
+            "feeding": "These birds are omnivorous, can feed on snakes, small mammals, insects, and plants."
+        }
+    }
+]

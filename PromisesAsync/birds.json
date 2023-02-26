@@ -1,0 +1,394 @@
+[
+    {
+        "birdId": 1,
+        "birdType": 1,
+        "name": "Secretary",
+        "otherName": "Sagittarius Serentarius",
+        "pic": ""
+    },
+    {
+        "birdId": 2,
+        "birdType": 1,
+        "name": "California condor",
+        "otherName": "Gymnogyps californianus"
+    },
+    {
+        "birdId": 3,
+        "birdType": 1,
+        "name": "Long-legged Buzzard",
+        "otherName": "Buteo rufinus"
+    },
+    {
+        "birdId": 4,
+        "birdType": 1,
+        "name": "Bald Eagle",
+        "otherName": "Haliaeetus leucocephalus"
+    },
+    {
+        "birdId": 5,
+        "birdType": 1,
+        "name": "Bateleur Eagle",
+        "otherName": "Terathopius ecaudatus"
+    },
+    {
+        "birdId": 6,
+        "birdType": 1,
+        "name": "Short-toed Snake Eagle",
+        "otherName": "Circaetus gallicus"
+    },
+    {
+        "birdId": 7,
+        "birdType": 1,
+        "name": "Pacific Baza",
+        "otherName": "Aviceda subcristat"
+    },
+    {
+        "birdId": 8,
+        "birdType": 1,
+        "name": "Osprey",
+        "otherName": "Pandion Haliaetus"
+    },
+    {
+        "birdId": 9,
+        "birdType": 1,
+        "name": "Red-tailed Hawk",
+        "otherName": "Buteo jamaicensis"
+    },
+    {
+        "birdId": 10,
+        "birdType": 1,
+        "name": "Hook-billed Kite",
+        "otherName": "Chondrohierax uncinatus"
+    },
+    {
+        "birdId": 11,
+        "birdType": 2,
+        "name": "Wood Duck",
+        "otherName": "Aix sponsa"
+    },
+    {
+        "birdId": 12,
+        "birdType": 2,
+        "name": "Mandarin Duck",
+        "otherName": "Aix galericulata"
+    },
+    {
+        "birdId": 13,
+        "birdType": 2,
+        "name": "Canada Goose",
+        "otherName": "Branta canadensis"
+    },
+    {
+        "birdId": 14,
+        "birdType": 2,
+        "name": "Black Duck",
+        "otherName": "Anas rubripes"
+    },
+    {
+        "birdId": 15,
+        "birdType": 2,
+        "name": "Mallard Wild Duck",
+        "otherName": "Anas platyrhynchos"
+    },
+    {
+        "birdId": 16,
+        "birdType": 2,
+        "name": "Mute Swan",
+        "otherName": "Cygnus olor"
+    },
+    {
+        "birdId": 17,
+        "birdType": 2,
+        "name": "Black Swan",
+        "otherName": "Cygnus atratus"
+    },
+    {
+        "birdId": 18,
+        "birdType": 2,
+        "name": "Magpie Goose",
+        "otherName": "Anseranas semipalmata"
+    },
+    {
+        "birdId": 19,
+        "birdType": 2,
+        "name": "African Pygmy Goose",
+        "otherName": "Nettapus auritus"
+    },
+    {
+        "birdId": 20,
+        "birdType": 2,
+        "name": "Masked Duck",
+        "otherName": "Nomonyx dominicus"
+    },
+    {
+        "birdId": 21,
+        "birdType": 3,
+        "name": "Amethyst Woodstar",
+        "otherName": "Calliphlox amethystina"
+    },
+    {
+        "birdId": 22,
+        "birdType": 3,
+        "name": "Andean Emerald",
+        "otherName": "Agyrtria franciae"
+    },
+    {
+        "birdId": 23,
+        "birdType": 3,
+        "name": "Black Inca",
+        "otherName": "Coeligena prunellei"
+    },
+    {
+        "birdId": 24,
+        "birdType": 3,
+        "name": "Copper-Tailed Hummingbird",
+        "otherName": "Saucerottia cupreicauda"
+    },
+    {
+        "birdId": 25,
+        "birdType": 3,
+        "name": "Magnificent hummingbird",
+        "otherName": "Eugenes fulgens"
+    },
+    {
+        "birdId": 26,
+        "birdType": 3,
+        "name": "Jamaican Mango",
+        "otherName": "Anthracothorax mango"
+    },
+    {
+        "birdId": 27,
+        "birdType": 3,
+        "name": "Spot-fronted swif",
+        "otherName": "Cypseloides cherriei"
+    },
+    {
+        "birdId": 28,
+        "birdType": 3,
+        "name": "Sooty swift",
+        "otherName": "Cypseloides fumigatus"
+    },
+    {
+        "birdId": 29,
+        "birdType": 3,
+        "name": "Rotschild’s swift",
+        "otherName": "Cypseloides rothschildi"
+    },
+    {
+        "birdId": 30,
+        "birdType": 3,
+        "name": "Indian swiftlet",
+        "otherName": "Aerodramus unicolor"
+    },
+    {
+        "birdId": 31,
+        "birdType": 4,
+        "name": "Southern Brown Kiwi",
+        "otherName": "Apteryx australis"
+    },
+    {
+        "birdId": 32,
+        "birdType": 4,
+        "name": "Little Spotted Kiwi",
+        "otherName": "Apteryx owenii"
+    },
+    {
+        "birdId": 33,
+        "birdType": 4,
+        "name": "Great Spotted Kiwi",
+        "otherName": "Apteryx haastii"
+    },
+    {
+        "birdId": 34,
+        "birdType": 4,
+        "name": "North Island Brown Kiwi",
+        "otherName": "Apterix mantelli"
+    },
+    {
+        "birdId": 35,
+        "birdType": 4,
+        "name": "Okarito Kiwi",
+        "otherName": "Apterix rowi"
+    },
+    {
+        "birdId": 36,
+        "birdType": 4,
+        "name": "Proapteryx micromeros",
+        "extinct": true
+    },
+    {
+        "birdId": 37,
+        "birdType": 4,
+        "name": "North Island Little Spotted Kiwi",
+        "extinct": true
+    },
+    {
+        "birdId": 38,
+        "birdType": 5,
+        "name": "African Grey Hornbill",
+        "otherName": "Tockus nasutus"
+    },
+    {
+        "birdId": 39,
+        "birdType": 5,
+        "name": "Red-billed hornbill",
+        "otherName": "Tockus erythrorhynchus"
+    },
+    {
+        "birdId": 40,
+        "birdType": 5,
+        "name": "Pied Hornbill",
+        "otherName": "Tockus fasciatus"
+    },
+    {
+        "birdId": 41,
+        "birdType": 5,
+        "name": "African Grey Hornbill",
+        "otherName": "Tockus nasutus"
+    },
+    {
+        "birdId": 42,
+        "birdType": 5,
+        "name": "Sri Lanka grey hornbill",
+        "otherName": "Ocyceros gingalensis"
+    },
+    {
+        "birdId": 43,
+        "birdType": 5,
+        "name": "African Hoopoe",
+        "otherName": "Upupa Africana"
+    },
+    {
+        "birdId": 44,
+        "birdType": 5,
+        "name": "Eurasian Hoopoe",
+        "otherName": "Upupa epops"
+    },
+    {
+        "birdId": 45,
+        "birdType": 5,
+        "name": "Green-Wood Hoopoer",
+        "otherName": "Phoeniculus purpureus"
+    },
+    {
+        "birdId": 46,
+        "birdType": 5,
+        "name": "Scimitarbill",
+        "otherName": "Rhinopomastus minor"
+    },
+    {
+        "birdId": 47,
+        "birdType": 5,
+        "name": "Trumpeter Hornbill",
+        "otherName": "Bycanistes bucinator"
+    },
+    {
+        "birdId": 48,
+        "birdType": 5,
+        "name": "Southern Ground Hornbill",
+        "otherName": "Bucorvus leadbeateri"
+    },
+    {
+        "birdId": 49,
+        "birdType": 6,
+        "name": "Oilbird",
+        "otherName": "Steatornis caripensis"
+    },
+    {
+        "birdId": 50,
+        "birdType": 6,
+        "name": "Wallace’s owlet-nightjar",
+        "otherName": "Aegotheles wallacii"
+    },
+    {
+        "birdId": 51,
+        "birdType": 6,
+        "name": "Mountain owlet-nightjar",
+        "otherName": "Aegotheles albertisi"
+    },
+    {
+        "birdId": 52,
+        "birdType": 6,
+        "name": "Tawny frogmouth",
+        "otherName": "Podargus strigoides"
+    },
+    {
+        "birdId": 53,
+        "birdType": 6,
+        "name": "Gould’s frogmouth",
+        "otherName": "Batrachostomus stellatus"
+    },
+    {
+        "birdId": 54,
+        "birdType": 6,
+        "name": "Solomon’s frogmouth",
+        "otherName": "Rigidipenna inexpectata"
+    },
+    {
+        "birdId": 55,
+        "birdType": 6,
+        "name": "Rufus potoo",
+        "otherName": "Nyctibius bracteatus"
+    },
+    {
+        "birdId": 56,
+        "birdType": 6,
+        "name": "Andean Potoo",
+        "otherName": "Nyctibius maculosus"
+    },
+    {
+        "birdId": 57,
+        "birdType": 6,
+        "name": "Common nightjar",
+        "otherName": "Caprimulgus europaeus"
+    },
+    {
+        "birdId": 58,
+        "birdType": 6,
+        "name": "Pennant-winged nightjar",
+        "otherName": "Semeiophorus vexillarius"
+    },
+    {
+        "birdId": 59,
+        "birdType": 7,
+        "name": "Red-legged seriema",
+        "otherName": "Cariama cristata"
+    },
+    {
+        "birdId": 60,
+        "birdType": 7,
+        "name": "Black-legged seriema",
+        "otherName": "Chunga burmeisteri"
+    },
+    {
+        "birdId": 61,
+        "birdType": 7,
+        "name": "Bathornis veredus"
+    },
+    {
+        "birdId": 62,
+        "birdType": 7,
+        "name": "Terror birds",
+        "otherName": "Titanis walleri"
+    },
+    {
+        "birdId": 63,
+        "birdType": 7,
+        "name": "Angalgornis steuletti"
+    },
+    {
+        "birdId": 64,
+        "birdType": 7,
+        "name": "Strigogyps sapea"
+    },
+    {
+        "birdId": 65,
+        "birdType": 7,
+        "name": "Elaphrocnemus crex"
+    },
+    {
+        "birdId": 66,
+        "birdType": 7,
+        "name": "Qianshanornis rapax"
+    }
+]
