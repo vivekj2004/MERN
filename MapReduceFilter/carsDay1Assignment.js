@@ -48,20 +48,21 @@ let carArray = {
 
 
 //2. Create a method to find cars under certain milage: takes the milage then returns an array of cars
-var findCarsUnderMilage = (xMiles) => {
+let findCarsUnderMilage = (xMiles) => {
     let underMilage = carArray.cars.filter((car)=>{return car.milage < xMiles})
     return underMilage
 }
 
 //3. Create a method to find cars within a min and max price: takes the min and max then returns an array of cars
 var findCarsWithinMinMaxPrice = (min, max) => {
-    let carPriceRange = carArray.cars.filter((car)=>{return (car.price>=min && car.price<=max)})
+    let carPriceRange = carArray.cars.filter((car)=>car.price>=min && car.price<=max)
     return carPriceRange
 }
 
 //4. Create a method to find average price: takes an array and returns a price number
 function avgPrice(carArray){
-    carArray.total = carArray.cars.reduce((previous, current) => previous + current.price, carArray.total);
+    carArray.total = 0
+    carArray.total = carArray.cars.reduce((previous, current) => previous + current.price, carArray.total)
     var size = Object.keys(carArray.cars).length
     carArray.average = carArray.total / size
     return carArray.average
@@ -72,14 +73,16 @@ var findByModel = (modelName) => {
     let modelMatch = carArray.cars.filter( ( car ) => { return car.model.toLowerCase()==modelName.toLowerCase() } )
     return modelMatch
 }
+console.log('Total: '+ carArray.cars.reduce((previous, current) => previous + current.price, carArray.total))
 
 //6.	Call each method with your own parameters and render results into the terminal
-console.log("cars under certain milage ",  findCarsUnderMilage(50000))
-console.log("cars within price range ", findCarsWithinMinMaxPrice(24000, 44000))
-console.log( "average car price ",  avgPrice(carArray) )
-console.log( "find cars by model ", findByModel( "toyota" ) )
+ console.log("cars under certain milage ",  findCarsUnderMilage(50000))
+ console.log("cars within price range ", findCarsWithinMinMaxPrice(24000, 44000))
+ console.log( "average car price ",  avgPrice(carArray) )
+ console.log( "find cars by model ", findByModel( "toyota" ) )
 
-module.exports = findCarsUnderMilage 
+//exports.findCarsUnderMilage = findCarsUnderMilage
+module.exports = { carArray, findCarsUnderMilage, findCarsWithinMinMaxPrice, avgPrice, findByModel }//, findCarsWithinMinMaxPrice } //, avgPrice, findByModel } 
 //module.exports = findCarsWithinMinMaxPrice 
 //module.exports = findCarsWithinMinMaxPrice
 // module.exports = averagePrice

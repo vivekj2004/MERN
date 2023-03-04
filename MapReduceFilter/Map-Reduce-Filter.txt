@@ -1,0 +1,15 @@
+if node modules folder is absent, then run:-
+npm i or npm install
+
+After that for installing jest run following commands:-
+
+npm install --save-dev ts-jest
+
+and/or
+
+-- this was not done. This would cause problems here. Research will be needed to see how this can be accomodated. npm install --save-dev @jest/globals
+
+Finally, to run tests, run the following command:-
+
+npm test 
+
